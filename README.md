@@ -5,3 +5,5 @@ This is a project that I worked on to put my Data Analysis skills to the test. I
 1. Data Preparation and Cleaning
 2. Exploratory Data Analysis
 3. Building Insights
+
+The analysis can be seen on a [Streamlit application](https://ipl2022eda-b2xarxehdsfcztjtkfvues.streamlit.app/).
